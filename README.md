@@ -20,3 +20,4 @@ Options:
   -c, --chunk-size INTEGER  Audio chunk size (default: 1024)
   --help                    Show this message and exit.
 ```
+
