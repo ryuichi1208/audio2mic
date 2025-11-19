@@ -100,5 +100,9 @@ def create_test_audio():
     print("  - test_voice.wav   : Voice-like modulated sound")
 
 
-if __name__ == "__main__":
+def main():
     create_test_audio()
+
+
+if __name__ == "__main__":
+    main()
