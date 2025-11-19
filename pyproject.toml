@@ -59,3 +59,4 @@ line-ending = "auto"
 
 [tool.ruff.lint.isort]
 known-first-party = ["audio2mic"]
+
